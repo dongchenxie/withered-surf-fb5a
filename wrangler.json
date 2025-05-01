@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "withered-surf-fb5a",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ade44710-6560-4c6b-93fb-5ad8d5e6c8ad",
+      "database_name": "dawn-breeze-9f90-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
